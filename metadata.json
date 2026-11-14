@@ -1,0 +1,6 @@
+{
+  "name": "KinCompass",
+  "description": "AI-powered Family-First Smart Itinerary & Logistics Visualizer with Zero-Hallucination Grounding",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
